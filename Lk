@@ -5,5 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/kckf.git
 git push -u origin main
-warp://auto?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#q&&detour=warp://auto?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#q2
-warp://auto4?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#s&&detour=warp://auto4?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#s2
+warp://p1@auto/?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#q&&detour=warp://p2@auto/?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#q2
+warp://p1@auto4/?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#s&&detour=warp://p2@auto4/?ifp=70-80&ifps=80-90&ifpd=90-100&ifpm=m4#s2
